@@ -1,4 +1,5 @@
-# Luxestate landing page
-- ОЧередной пример landing-page на тему "портфолио", [тык](https://maximbesperstov.github.io/PortfolioEndDev_Landing/)
-- очень много css и js кода
-- нет, Вы не поняли, очень много
+# PortfolioEndDev_Landing
+
+- Это мой пример landing-page, [посмотрите сами](https://maximbesperstov.github.io/Luxestate_landing/)
+- используется пара цветовых оттенков
+- js для одновременой смены цветов
