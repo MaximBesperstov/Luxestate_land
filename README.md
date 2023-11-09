@@ -1,4 +1,4 @@
-# PortfolioEndDev_Landing
+# Luxestate_landing_page
 
 - Это мой пример landing-page, [посмотрите сами](https://maximbesperstov.github.io/Luxestate_landing/)
 - используется пара цветовых оттенков
